@@ -1,0 +1,1 @@
+{"version":3,"file":"hero.provider.js","sourceRoot":"","sources":["../src/hero.provider.ts"],"names":[],"mappings":";;AACA,+CAA0C;AAE7B,QAAA,YAAY,GAAG;IAC1B,OAAO,EAAE,gBAAgB;IACzB,UAAU,EAAE,CAAC,UAAsB,EAAE,EAAE,CAAC,UAAU,CAAC,aAAa,CAAC,wBAAU,CAAC;IAC5E,MAAM,EAAE,CAAC,iBAAiB,CAAC;CAC5B,CAAA"}
