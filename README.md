@@ -37,3 +37,4 @@ $ npm run test:cov
 ```
 
 # Angular6_HeroDemo_Backend
+- endpoints with query not fixed
